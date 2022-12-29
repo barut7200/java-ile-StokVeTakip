@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="StokveTakipOtomasyonu-main/SatisveStok/src"/>
+	<classpathentry kind="lib" path="StokveTakipOtomasyonu-main/SatisveStok/libs/DateChooser.jar"/>
+	<classpathentry kind="lib" path="StokveTakipOtomasyonu-main/SatisveStok/libs/jcalendar-1.3.3.jar"/>
+	<classpathentry kind="output" path="StokveTakipOtomasyonu-main/SatisveStok/bin"/>
+</classpath>
